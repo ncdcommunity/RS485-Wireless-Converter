@@ -1,5 +1,5 @@
 # RS485-Wireless-Coverter
-IoT RS485-Wireless Converter 
+IoT RS485-Wireless Converter  no node id no sensor type
 https://store.ncd.io/product/industrial-iot-wireless-rs485-modem/
 
 
